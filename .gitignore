@@ -1,0 +1,5 @@
+*.env
+micro-a/.env
+micro-b/.env
+micro-a/node_modules
+micro-b/node_modules
