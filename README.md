@@ -52,7 +52,7 @@ rxjs
     ```sh
     npm i
     ```
-2. Create a `.env` file containing API keys and credentials.
+2. Create a `.env` file containing all credentials.
 ```
 APPLICATION_PORT=3000
 NODE_ENV=development
